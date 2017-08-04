@@ -5,7 +5,8 @@ Part of the ["Awesome X" series](https://github.com/sindresorhus/awesome).*
 Shortcut: https://git.io/awecon
 
 The list is periodically updated with new links.
-You are welcome to add to our collection, please see https://git.io/awecon-add
+You are welcome to add to our collection, please see https://git.io/awecon-pr
+or make a pull request as usual.
 
 
 ## Table of Contents
