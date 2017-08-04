@@ -1,10 +1,12 @@
 # Awesome Economics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-*A curated collection of links for economists. Part of the ["Awesome X" series](https://github.com/sindresorhus/awesome).*
+*A curated collection of links for economists.
+Part of the ["Awesome X" series](https://github.com/sindresorhus/awesome).*
+Shortcut: https://git.io/awecon
 
-The list is periodically updated with new links. Click "Watch" in the right top corner to follow.
+The list is periodically updated with new links.
+You are welcome to add to our collection, please see https://git.io/awecon-add
 
-Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourself](contributing.md) or send them to <mailto:antontarasenko@gmail.com>.
 
 ## Table of Contents
 
@@ -31,6 +33,7 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [Foundational Equations of Economics](http://economics.stackexchange.com/questions/35/what-are-the-foundational-equations-of-economics) - These equations show principles behind "thinking like an economist". Graduate textbooks put these equiations in context.
 * [IGM Economic Experts Panel](http://www.igmchicago.org/igm-economic-experts-panel) - Top economists reflect on policy-related issues. Some answers contain useful details.
 * [AEA Resources for Economists](http://rfe.org/) - A list of useful links maintained by the American Economic Association.
+* [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 
 
 ## Research
@@ -86,6 +89,7 @@ Computing
   - [Octave](https://www.gnu.org/software/octave/)
 * [Mathematica](https://www.wolfram.com/mathematica/) - Symbolic computations. Free alternative
   - [Sage](http://www.sagemath.org/)
+* [fecon235](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
 
 Sharing
 
@@ -173,8 +177,6 @@ Please, add yourself and your economics-related projects.
 * [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
 * [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
 * [Deveconodata Blogspot](http://devecondata.blogspot.com/) - Development economics datasets. Updated regularly.
-* [fecon235](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
-* [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 
 
 ## License
