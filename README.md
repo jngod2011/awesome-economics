@@ -176,10 +176,15 @@ Reviews
 ### Links Sent by Readers
 
 * [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
-* [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
-* [Deveconodata Blogspot](http://devecondata.blogspot.com/) - Development economics datasets. Updated regularly.
+* [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, circa 2016.
+* [Deveconodata Blogspot](http://devecondata.blogspot.com/) - Development economics datasets, updated regularly.
+
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://github.com/rsvp/awesome-economics/blob/master/LICENSE.md)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://github.com/rsvp/awesome-economics/blob/master/LICENSE.md) [Public domain](https://github.com/rsvp/awesome-economics/blob/master/LICENSE.md)
+
+---
+
+Revision date : 2017-08-05
 
