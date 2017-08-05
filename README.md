@@ -4,8 +4,7 @@
 Part of the ["Awesome X" series](https://github.com/sindresorhus/awesome).*
 Shortcut: https://git.io/awecon
 
-The list is periodically updated with new links.
-You are welcome to add to our collection, please see https://git.io/awecon-pr
+You are welcome to edit our collection, please see https://git.io/awecon-pr
 or make a pull request as usual.
 
 
@@ -15,9 +14,12 @@ or make a pull request as usual.
 * [Research](#research)
 * [Discussions](#discussions)
 * [Career](#career)
-* [Economics on GitHub](#economics-on-github)
+* [Economics at GitHub](#economics-at-github)
 * [Literature by Field](#literature-by-field)
 * [License](#license)
+
+
+![awesome-economics.jpg](https://git.io/awecon.jpg)
 
 
 ## Studying
@@ -149,9 +151,7 @@ Reviews
 * [Economics Job Market Rumors](http://www.econjobrumors.com/wiki.php) - List of job openings for economists. Informal.
 
 
-## Economics on GitHub
-
-Please, add yourself and your economics-related projects.
+## Economics at GitHub
 
 ### Economists
 
@@ -179,8 +179,7 @@ Please, add yourself and your economics-related projects.
 * [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
 * [Deveconodata Blogspot](http://devecondata.blogspot.com/) - Development economics datasets. Updated regularly.
 
-
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://github.com/rsvp/awesome-economics/blob/master/LICENSE.md)
 
