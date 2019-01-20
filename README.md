@@ -92,7 +92,8 @@ Computing
   - [Octave](https://www.gnu.org/software/octave/)
 * [Mathematica](https://www.wolfram.com/mathematica/) - Symbolic computations. Free alternative
   - [Sage](http://www.sagemath.org/)
-* [fecon235](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
+* [fecon235](https://github.com/rsvp/fecon235) - Computational tools for financial economics, and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
+* [fecon236](https://github.com/MathSci/fecon236) - Computational tools for financial economics, Python code base for `fecon235`.
 
 Sharing
 
@@ -156,28 +157,31 @@ Reviews
 ### Economists
 
 * [davidrpugh](https://github.com/davidrpugh) - Institute for New Economic Thinking, Oxford Martin School; Oxford Mathematical Institute, Oxford, UK. 
+* [gboehl](https://github.com/gboehl) - Goethe University Frankfurt, Frankfurt Germany.
 * [hmgaudecker](https://github.com/hmgaudecker) - Universität Bonn, Bonn, Germany.
 * [jesusfv](https://github.com/jesusfv)
 * [jstac](https://github.com/jstac) - Australian National University, Canberra, Australia.
 * [nathanlane](https://github.com/nathanlane) - Institute for International Economic Studies, Stockholm, Sweden.
+* [nealbob](https://github.com/nealbob) - Australian National University, Canberra, Australia.
 * [robertdkirkby](https://github.com/robertdkirkby)
 * [trickvi](https://github.com/trickvi) - Hagstofa Íslands, Iceland.
-* [nealbob](https://github.com/nealbob) - Australian National University, Canberra, Australia.
 
 ### Projects
 
+* [EconForge](https://github.com/EconForge) - Team around Pablo Winant providing packages to solve economic models.
 * [economics-book](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
 * [pyeconomics](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
 * [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
 * [quantecon_nyu_2016](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
-* [zice-2014](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
 * [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
+* [zice-2014](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
 
-### Links Sent by Readers
 
+## Links Sent by Readers
+
+* [Deveconodata Blogspot](http://devecondata.blogspot.com/) - Development economics datasets. Updated regularly.
 * [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
 * [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, circa 2016.
-* [Deveconodata Blogspot](http://devecondata.blogspot.com/) - Development economics datasets, updated regularly.
 
 
 ## License
@@ -186,5 +190,5 @@ Reviews
 
 ---
 
-Revision date : 2017-08-05
+Revision date : 2019-01-20
 
