@@ -5,6 +5,18 @@ within itself. This file simply gives a grand overview of such details
 and the annotations in the commits and tags.*
 
 
+### 2019-01-20  (tag: v2.19.0120)
+
+LICENSE.md: Explicitly PUBLIC DOMAIN:
+https://creativecommons.org/publicdomain/zero/1.0/
+Link to LICENSE.md for the bottom image.
+
+Add .github/CODE_OF_CONDUCT.md
+
+README.md: Add site banner image, and
+sync with upstream.
+
+
 ### 2017-08-04  (tag: v2.17.0804)  MAJOR HARD FORK
 
 Renamed: readme.md -> README.md
